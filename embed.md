@@ -1,7 +1,7 @@
 ```
-<!-- Autosave Checklist Widget -->
-<!-- Widget Author: Warren Woodhouse -->
-<!-- Widget Documentation URL: warrenwoodhouse.blogspot.com/widgets/autosavechecklist -->
+<!-- Autosave Checklist Template -->
+<!-- Template Author: Warren Woodhouse -->
+<!-- Template Documentation URL: warrenwoodhouse.blogspot.com/templates/autosavechecklist -->
 <html>
 <head>
     <meta charset="UTF-8">
